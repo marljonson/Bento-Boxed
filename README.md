@@ -1,4 +1,4 @@
-# Bento Boxed
+# Bento Boxed 🍱
 A secure Java and Spring Boot FHIR API.
 
 Tech stack: `Java` `Spring Boot` `Spring Security` `OAuth 2.0` `PostgreSQL` `Docker` `Postman`
